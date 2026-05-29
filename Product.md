@@ -2,7 +2,7 @@
 
 ## 一、同心单排电动微卡（载重 1 吨）
 
-<img alt="1" src="https://github.com/user-attachments/assets/f17f4a91-8cdf-4887-9568-f1c339de641d" style="max-width: 100%; height: auto;" />
+<img alt="2" src="https://github.com/user-attachments/assets/bab3256e-7ffa-4eae-bc94-b08b570e61c9" style="max-width: 100%; height: auto;" />
 
 | 项目 | 参数 |
 | --- | --- |
@@ -38,8 +38,7 @@
 
 ## 二、TXW 单排电动版配置三选一
 
-<img alt="2" src="https://github.com/user-attachments/assets/bab3256e-7ffa-4eae-bc94-b08b570e61c9" style="max-width: 100%; height: auto;" />
-
+<img alt="1" src="https://github.com/user-attachments/assets/f17f4a91-8cdf-4887-9568-f1c339de641d" style="max-width: 100%; height: auto;" />
 | 配置项目 | 标配参数 | 高配参数 | 定制 96V |
 | --- | --- | --- | --- |
 | 驾驶室 | 酸洗、磷化、电泳防腐处理，普通白 / 银色 | 酸洗、磷化、电泳防腐处理，普通白 / 银色 | 酸洗、磷化、电泳防腐处理，普通白 / 银色 |
