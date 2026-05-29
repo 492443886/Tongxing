@@ -2,7 +2,7 @@
 
 ## 一、同心单排电动微卡（载重 1 吨）
 
-<img width="1080" height="1440" alt="1" src="https://github.com/user-attachments/assets/f17f4a91-8cdf-4887-9568-f1c339de641d" />
+<img alt="1" src="https://github.com/user-attachments/assets/f17f4a91-8cdf-4887-9568-f1c339de641d" style="max-width: 100%; height: auto;" />
 
 | 项目 | 参数 |
 | --- | --- |
@@ -38,7 +38,7 @@
 
 ## 二、TXW 单排电动版配置三选一
 
-<img width="1280" height="1707" alt="2" src="https://github.com/user-attachments/assets/bab3256e-7ffa-4eae-bc94-b08b570e61c9" />
+<img alt="2" src="https://github.com/user-attachments/assets/bab3256e-7ffa-4eae-bc94-b08b570e61c9" style="max-width: 100%; height: auto;" />
 
 | 配置项目 | 标配参数 | 高配参数 | 定制 96V |
 | --- | --- | --- | --- |
@@ -93,7 +93,7 @@
 
 ## 三、电动四轮轻卡
 
-<img width="1280" height="1707" alt="3" src="https://github.com/user-attachments/assets/a4d62397-493c-415b-a13d-1149642d0840" />
+<img alt="3" src="https://github.com/user-attachments/assets/a4d62397-493c-415b-a13d-1149642d0840" style="max-width: 100%; height: auto;" />
 
 | 项目 | 内容 |
 | --- | --- |
