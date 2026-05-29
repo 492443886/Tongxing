@@ -4,7 +4,6 @@
 <img width="1280" height="1707" alt="2" src="https://github.com/user-attachments/assets/bab3256e-7ffa-4eae-bc94-b08b570e61c9" />
 | 项目 | 参数 |
 |---|---|
-
 | 车型 | 同心单排电动微卡 |
 | 尺寸 | 车斗长 2.6 米，宽 1.5 米 |
 | 轴距 | 2.4 米 |
