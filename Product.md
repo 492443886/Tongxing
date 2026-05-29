@@ -1,9 +1,11 @@
 # 三款产品资料汇总
 
 ## 一、同心单排电动微卡（载重 1 吨）
+
 <img width="1280" height="1707" alt="2" src="https://github.com/user-attachments/assets/bab3256e-7ffa-4eae-bc94-b08b570e61c9" />
+
 | 项目 | 参数 |
-|---|---|
+| --- | --- |
 | 车型 | 同心单排电动微卡 |
 | 尺寸 | 车斗长 2.6 米，宽 1.5 米 |
 | 轴距 | 2.4 米 |
@@ -35,10 +37,11 @@
 ---
 
 ## 二、TXW 单排电动版配置三选一
+
 <img width="1080" height="1440" alt="1" src="https://github.com/user-attachments/assets/f17f4a91-8cdf-4887-9568-f1c339de641d" />
 
 | 配置项目 | 标配参数 | 高配参数 | 定制 96V |
-|---|---|---|---|
+| --- | --- | --- | --- |
 | 驾驶室 | 酸洗、磷化、电泳防腐处理，普通白 / 银色 | 酸洗、磷化、电泳防腐处理，普通白 / 银色 | 酸洗、磷化、电泳防腐处理，普通白 / 银色 |
 | 驾驶位置 | 左 / 右驾驶 | 左 / 右驾驶 | 左 / 右驾驶 |
 | 轴距 | 3000 mm | 3000 mm | 3000 mm |
@@ -89,10 +92,11 @@
 ---
 
 ## 三、电动四轮轻卡
+
 <img width="1280" height="1707" alt="3" src="https://github.com/user-attachments/assets/a4d62397-493c-415b-a13d-1149642d0840" />
 
 | 项目 | 内容 |
-|---|---|
+| --- | --- |
 | 尺寸 / 货斗 | 1.3 m × 2.0 m |
 | 电机 | 72V 2000W 电机 |
 | 电池 | 72V 130A 锂电 |
@@ -101,4 +105,4 @@
 
 ---
 
-### All Product can be upgraded and customize
+### All Products can be upgraded and customized
